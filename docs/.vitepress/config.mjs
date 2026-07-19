@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/folklore-catcher/',
   title: "Folklore Field Catcher",
   description: "Regional Research & Field Notes",
   themeConfig: {
